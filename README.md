@@ -1,5 +1,5 @@
 <div align="center">
-<img src ="RestauranteAPP\ix_sistemas_app\src\assets\ixlogo.png" alt="IX" width="200px">
+<img src ="ix_sistemas_app\src\assets\ixlogo.png" alt="IX" width="200px">
 </div>
 <br>
 <h1>Conheça o App</h1>
@@ -26,7 +26,7 @@
 <br>
 
 <div align="center">
-<img src ="RestauranteAPP\ix_sistemas_app\src\Github\GIF_IX.gif" alt="gif" >
+<img src ="ix_sistemas_app\src\Github\GIF_IX.gif" alt="gif" >
 </div>
 <br>
 <br>
