@@ -66,6 +66,7 @@ $ ionic serve
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Ionic Framework](https://ionicframework.com/)
+- [Angular](https://angular.io/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Javascript](https://javascript.info/js)
 - HTML
